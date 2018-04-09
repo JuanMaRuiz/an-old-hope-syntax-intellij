@@ -6,9 +6,6 @@ An IntelliJ theme based on [@JesseLeite](https://github.com/JesseLeite/an-old-ho
 
 ## Screenshot
 
-![screenshot](https://raw.githubusercontent.com/banastas/an-old-hope-syntax-intellij/master/screenshot.png)
-
-
 ![intellij-screenshot](https://raw.githubusercontent.com/juanmaruiz/an-old-hope-syntax-intellij/master/intellij-an-old-hope-theme.png)
 
 ## How to install
