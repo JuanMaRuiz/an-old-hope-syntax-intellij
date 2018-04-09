@@ -1,4 +1,4 @@
-# An Old Hope
+# An Old Hope (IntelliJ Color Theme)
 
 An IntelliJ theme based on [@JesseLeite](https://github.com/JesseLeite/an-old-hope-syntax-atom)'s Atom theme inspired by a galaxy far far away...
 
