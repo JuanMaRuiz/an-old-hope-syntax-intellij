@@ -10,4 +10,8 @@ An IntelliJ theme based on [@JesseLeite](https://github.com/JesseLeite/an-old-ho
 
 ## How to install
 
-If you are a mac user go to ```~/Library/Preferences/<your-intellij-folder>/colors/``` and copy the ```An Old Hope.icls``` theme. If the folder doesn't exit you can create it and copy the ```icls``` file into it. If you have your IntelliJ opened restart it again.
+* If you are a mac user go to ```~/Library/Preferences/<your-intellij-folder>/colors/``` and copy the ```An Old Hope.icls``` theme.
+
+* If the folder doesn't exit you can create it and copy the ```icls``` file into it.
+
+* If you have your IntelliJ opened restart it again.
