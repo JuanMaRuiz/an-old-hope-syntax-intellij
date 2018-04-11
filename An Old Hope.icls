@@ -3,7 +3,7 @@
     <property name="created">2018-04-11T11:28:30</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.7.0.0</property>
-    <property name="modified">2018-04-11T11:43:10</property>
+    <property name="modified">2018-04-11T11:49:43</property>
     <property name="originalScheme">An old hope</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -26,6 +26,7 @@
     <option name="LINE_NUMBERS_COLOR" value="bdbdbd" />
     <option name="SELECTED_INDENT_GUIDE" value="767676" />
     <option name="SELECTION_BACKGROUND" value="6c7a89" />
+    <option name="SELECTION_FOREGROUND" value="3c3f41" />
     <option name="WHITESPACES" value="767676" />
   </colors>
   <attributes>
