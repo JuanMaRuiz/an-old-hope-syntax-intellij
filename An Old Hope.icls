@@ -3,7 +3,7 @@
     <property name="created">2018-04-11T11:28:30</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.7.0.0</property>
-    <property name="modified">2018-04-11T11:49:43</property>
+    <property name="modified">2018-04-26T09:48:47</property>
     <property name="originalScheme">An old hope</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -1385,7 +1385,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="f8f8f2" />
-        <option name="BACKGROUND" value="1c1d21" />
+        <option name="BACKGROUND" value="2a34" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
